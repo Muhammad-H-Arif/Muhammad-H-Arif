@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Muhammad H Arif 👋</h1>
 
 <p align="center">
-  <strong>Cybersecurity Professional | Penetration Tester | Secure Software Developer</strong><br>
-  Passionate about protecting systems, hunting threats, and building secure software.
+  <strong>Full Stack Developer | Next.js, Python, React.js, TypeScript, Rust, & Data Science</strong><br>
+  Web Applications | Back-End Development | Linux Server Management | Self-Learner | Home Lab Enthusiast
 </p>
 
 <p align="center">
@@ -16,12 +16,12 @@
 
 ## 🧑‍💻 About Me
 
-I'm a cybersecurity professional based in New Jersey, USA, specializing in **threat detection**, **penetration testing**, and **secure software development**. I'm currently pursuing an Associate degree in Computer Science and actively sharpening my skills across offensive and defensive security domains.
+I'm a full stack developer based in New Jersey, USA, passionate about building web applications, back-end systems, and exploring data science. I work primarily with **Next.js**, **React.js**, **Python**, **TypeScript**, and **Rust**, and enjoy managing Linux servers and tinkering in my home lab. I'm a self-learner always leveling up my skills.
 
-- 🔐 **Specializations:** Network security, penetration testing, vulnerability assessments, API security
-- 🛡️ **Interests:** IoT security, zero-trust network architecture, automated malware analysis
-- 🌱 **Currently Learning:** Advanced red-teaming techniques and cloud security (AWS/Azure)
-- 🤝 **Open to Collaborate:** Security tooling, CTF challenges, and open-source security projects
+- 🚀 **Specializations:** Web applications, back-end development, REST APIs, Linux server management
+- 🦀 **Languages I Love:** Python, TypeScript, Rust, JavaScript, Next.js, React.js
+- 🌱 **Currently Learning:** Data Science, Rust systems programming, and cloud infrastructure
+- 🤝 **Open to Collaborate:** Open-source projects, web apps, back-end services, and home lab setups
 - 📫 **Reach me at:** [contact@muhammadarif.com](mailto:contact@muhammadarif.com)
 
 ---
@@ -31,17 +31,20 @@ I'm a cybersecurity professional based in New Jersey, USA, specializing in **thr
 **Languages & Scripting**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
-**Cybersecurity Tools & Platforms**
+**Frameworks & Libraries**
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-E34F26?style=flat-square&logo=metasploit&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-004170?style=flat-square&logo=nmap&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+**Data Science**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
 **Infrastructure & Cloud**
 
@@ -67,7 +70,6 @@ I'm a cybersecurity professional based in New Jersey, USA, specializing in **thr
   <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-H-Arif&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-H-Arif&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%"/>
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-H-Arif&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
@@ -76,7 +78,7 @@ I'm a cybersecurity professional based in New Jersey, USA, specializing in **thr
 
 ## 🤝 Let's Connect
 
-I'm always open to discussing cybersecurity, collaborating on security research, or just networking with like-minded professionals.
+I'm always open to discussing web development, Rust, data science, or collaborating on open-source projects. Feel free to reach out!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammad-hasnain-arif/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -86,4 +88,4 @@ I'm always open to discussing cybersecurity, collaborating on security research,
 
 ---
 
-<p align="center"><em>"Security is not a product, but a process." — Bruce Schneier</em></p>
+<p align="center"><em>"First, solve the problem. Then, write the code." — John Johnson</em></p>
